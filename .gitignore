@@ -22,3 +22,6 @@ eval-output
 .vscode/
 !.vscode/settings.json
 .DS_Store
+
+# Local manuscript builds
+/output/

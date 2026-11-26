@@ -1,0 +1,13 @@
+{
+  "source_revision": "ac0024aa85933de6ffdb83c625c82e6d471e54c4",
+  "source_path": "model-output/CovidHub-baseline/2026-09-26-CovidHub-baseline.csv",
+  "sha256": "6bf899f32e2888a5df8bd492061dcb64e8067d44c56c5f4efdebadf171e59e1a",
+  "rows_checked": 12052,
+  "location_identifiers": 53,
+  "sample_location": "US",
+  "sample_horizon_weeks": 0,
+  "sample_quantile": 0.5,
+  "quantiles_per_selected_target": 23,
+  "hospital_admissions_median": 4368,
+  "emergency_department_visit_proportion_median": 0.0052
+}
