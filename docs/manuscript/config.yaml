@@ -1,0 +1,18 @@
+paper:
+  title: "Reading archived CDC COVID-19 forecasts"
+  subtitle: "Data contract and verified baseline readback"
+authors:
+  - name: Docxology
+publication:
+  github_repository: docxology/covid19-forecast-hub
+  repository_url: https://github.com/docxology/covid19-forecast-hub
+manuscript_dir: docs/manuscript
+metadata:
+  language: en
+render:
+  formats:
+    pdf: true
+    html: true
+    slides: false
+    docx: false
+    epub: false
