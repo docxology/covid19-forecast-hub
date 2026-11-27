@@ -6,7 +6,7 @@ Each model is required to have metadata in [yaml format](https://docs.ansible.co
 
 
 These instructions provide detail about the [data
-format](#Data-format) as well as [validation](#Data-validation) that
+format](#data-format) as well as [validation](#metadata-validation) that
 you can do prior to a pull request with a metadata file.
 
 # Data format
@@ -72,7 +72,7 @@ Designation applies to every target the model submits unless narrowed by the opt
 
 ### `data_inputs`
 
-List or description of the data sources used to inform the model, in particular any dataset used that are not the [target datasets](../README.md#target-data-source) of epiweekly incident COVID-19 hospital admissions reported to NHSN or epiweekly incident emergency department visits due to COVID-19 reported to NSSP.
+List or description of the data sources used to inform the model, in particular any dataset used that are not the [target datasets](../target-data/) of epiweekly incident COVID-19 hospital admissions reported to NHSN or epiweekly incident emergency department visits due to COVID-19 reported to NSSP.
 
 
 ### `methods`
