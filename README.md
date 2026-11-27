@@ -7,6 +7,6 @@ to COVID-19.
 
 - [Data and documentation](docs/README.md)
 - [Reproduce the archived sample check](docs/example.md)
-- [Data manuscript](docs/manuscript/00_abstract.md)
+- [Data manuscript](docs/manuscript/README.md)
 - [Upstream forecast hub](https://github.com/CDCgov/covid19-forecast-hub)
 - [Upstream notices](docs/reference/upstream-notices.md)
