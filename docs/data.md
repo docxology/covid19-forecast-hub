@@ -22,4 +22,4 @@ Use the Hubverse model-output schema and the upstream data dictionary
 when preparing a downstream reader. Preserve location identifiers as
 strings to retain leading zeros. For a reproducible analysis, record the
 source revision and reference date. See the upstream hub for current
-target releases and cloud mirror information. [Upstream repository](https://github.com/CDCgov/covid19-forecast-hub) · [Hubverse model output](https://hubverse.io/en/latest/user-guide/model-output.html)
+target releases and cloud mirror information. [Upstream repository](https://github.com/CDCgov/covid19-forecast-hub) · [Hubverse model output](https://docs.hubverse.io/en/latest/user-guide/model-output.html)

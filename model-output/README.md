@@ -240,7 +240,7 @@ Here, `output_type_id = s0` and `output_type_id = s1` specifies that the predict
 | 2024-10-15 |  1      |  NH | sample | S1 | - |
 
 The above table shows two samples indexed by `output_type_id:` `S1` and `S2` from a joint predictive distribution across `location`s and `horizon`s.
-More details on sample output can be found in the [hubverse documentation of sample output type](https://hubverse.io/en/latest/user-guide/sample-output-type.html).
+More details on sample output can be found in the [hubverse documentation of sample output type](https://docs.hubverse.io/en/latest/user-guide/sample-output-type.html).
 
 ### `value`
 
