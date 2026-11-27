@@ -20,7 +20,7 @@ This repository follows the guidelines and standards outlined by the [hubverse](
 * [Open Practices](../governance/open-practices.md)
 * [Rules of Behavior](../governance/rules-of-behavior.md)
 * [Disclaimer](../governance/disclaimer.md)
-* [Contribution Notice](CONTRIBUTING.md)
+* [Contribution Notice](#contributing-standard-notice)
 * [Code of Conduct](../governance/code-of-conduct.md)
 
 
